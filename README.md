@@ -1,6 +1,6 @@
 # Project 2: Landing Page
 
-I created a sample [website](http://your-github-username.github.io/odin-website) template by creating the boilerplate for HTML and adding a stylesheet. The css is heavily dependent on flexbox and the following html tags were used:
+I created a sample [website](http://soobing91.github.io/odin-website) template by creating the boilerplate for HTML and adding a stylesheet. The css is heavily dependent on flexbox and the following html tags were used:
 
 1. HTML
 - `div`
